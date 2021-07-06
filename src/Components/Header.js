@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import ParticlesBg from "particles-bg";
+//import ParticlesBg from "particles-bg";
 import Fade from "react-reveal";
 
 class Header extends Component {
@@ -10,11 +10,15 @@ class Header extends Component {
     const github = this.props.data.github;
     const name = this.props.data.name;
     const description = this.props.data.description;
+    const backgroundimage = "url(images/" + this.props.data.background + ")"
 
     return (
-      <header id="home">
-        <ParticlesBg type="circle" bg={true} />
-
+      <header id="home" style={{
+          backgroundImage: backgroundimage,
+              backgroundPostion: 'center',
+              backgroundSize: 'cover',
+              backgroundRepeat: 'no-repeat'
+      }}>
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
             Show navigation
