@@ -76,6 +76,10 @@
         "level":"20%"
       },
       {
+        "name":"SQL",
+        "level":"40%"
+      },
+      {
         "name":"Python",
         "level":"80%"
       },
