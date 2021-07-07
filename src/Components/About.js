@@ -41,8 +41,11 @@ class About extends Component {
                   </p>
                 </div>
                 <div className="columns download">
+                <p>
+                    Note: Download does not work for IE, Opera Mini and older browsers.
+                </p>
                   <p>
-                    <a href={resumeDownload} className="button">
+                    <a href={resumeDownload} className="button" download>
                       <i className="fa fa-download"></i>Download Resume
                     </a>
                   </p>
