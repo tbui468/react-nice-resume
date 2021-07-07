@@ -37,14 +37,6 @@ class About extends Component {
                   <p className="address">
                     <span>{name}</span>
                     <br />
-                    <span>
-                      {street}
-                      <br />
-                      {city} {state}, {zip}
-                    </span>
-                    <br />
-                    <span>{phone}</span>
-                    <br />
                     <span>{email}</span>
                   </p>
                 </div>
