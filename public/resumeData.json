@@ -45,7 +45,7 @@
       },
       {
         "company":"Bolsa Medical Clinic",
-        "title":"Assistant Office Manager",
+        "title":"Medical Biller",
         "years":"2018-2019 USA",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
@@ -58,7 +58,7 @@
       {
         "company":"Best in Class Education",
         "title":"Math Instructor",
-        "years":"2009-2012 USA",
+        "years":"2010-2012 USA",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],
@@ -98,6 +98,7 @@
     ]
   },
   "portfolio":{
+    "projectmessage": "Sample of some of my personal projects.",
     "projects": [
       {
         "title":"Sample Website",
@@ -127,7 +128,7 @@
         "title":"Browser Neural Network",
         "category":"A React based resume website template",
         "image":"network.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://tbui468.github.io./grid"
       },
       {
         "title":"Apple Leaf Disease Detector",

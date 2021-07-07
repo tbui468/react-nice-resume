@@ -7,6 +7,7 @@ class Portfolio extends Component {
   render() {
     if (!this.props.data) return null;
 
+    const projectmessage = this.props.data.projectmessage;
     const projects = this.props.data.projects.map(function (projects) {
       let projectImage = "images/portfolio/" + projects.image;
 
@@ -25,7 +26,7 @@ class Portfolio extends Component {
         <Fade left duration={1000} distance="40px">
           <div className="row">
             <div className="twelve columns collapsed">
-              <h1>Check Out Some of My Personal Works.</h1>
+              <h1>{projectmessage}</h1>
 
               <div
                 id="portfolio-wrapper"
