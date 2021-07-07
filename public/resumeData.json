@@ -101,28 +101,22 @@
     "projectmessage": "Sample of some of my personal projects.",
     "projects": [
       {
-        "title":"Sample Website",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"simulation.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
         "title":"2d Physics Simulation",
         "category":"My Travel Blog for my post-university travels",
         "image":"simulation.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://github.com/tbui468/rigid-body-simulation"
       },
       {
         "title":"3d Rasterizer",
         "category":"(offline now) A fighting gear company I started",
         "image":"rasterizer.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"http://github.com/tbui468/3d-rasterizer"
       },
       {
         "title":"Game Enginer Renderer",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"engine.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"http://github.com/tbui468/rose-game-engine"
       },
       {
         "title":"Browser Neural Network",
@@ -134,7 +128,7 @@
         "title":"Apple Leaf Disease Detector",
         "category":"(MVP Only) A React and Meteor based chat University project.",
         "image":"detector.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"http://detector468.herokuapp.com"
       }
     ]
   }
