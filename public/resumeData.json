@@ -9,14 +9,14 @@
     "email": "thomasthienbui@gmail.com",
     "phone": "555-555-5555",
     "github":"https://github.com/tbui468",
-    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/tbui468/react-nice-resume",
     "address":{
       "street":"(Your Street)",
       "city":"(Your City)",
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.tbui468-resume.netlify.app",
     "resumedownload":"resume.pdf",
     "social":[
       {
@@ -33,7 +33,7 @@
         "school":"University of Washington",
         "degree":"B.S. in Electrical Engineering, specializing in digital signal processing",
         "graduated":"2009 USA",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Majored in electrical engineering, with a focus on digital signal processing.  Tutored math part-time to fellow students at a local tutoring center.  Received a minor in Japanese, which I would use in my future teaching position in Japan."
       }
     ],
     "work":[
@@ -41,25 +41,25 @@
         "company":"LASEPS",
         "title":"Cofounder",
         "years":"2020 - Present VIETNAM",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Cofounded consulting business, Logical Analyzing System for Enterprises, Products and Services (LASEPS) with two other cofounders.  Procured main investment.  "
       },
       {
         "company":"Bolsa Medical Clinic",
-        "title":"Medical Biller / Assistant Office Manager",
+        "title":"Medical Biller",
         "years":"2018-2019 USA",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Hired for medical billing position and record maintenance.  Responsibilities shifted to office management, including maintaining facility and vaccination storage requirements up to California state code."
       },
       {
         "company":"Kure City Board of Education",
         "title":"Assistant Language Teacher",
         "years":"2012-2017 JAPAN",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Planned and taught elementary school English lessons.  Assisted primary English teachers in middle and high schools in lessons.  Organized and presented at yearly English teachers conference in Hiroshima city.  Judge and interviewer for Kure City recitation contests and and study-abroad programs.  Studied Japanese and received a JLPT level 2 certificate."
       },
       {
         "company":"Best in Class Education",
         "title":"Math Instructor",
         "years":"2010-2012 USA",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":"Tutor students 1-on-1 or in small groups in math, including SAT preparation.  Designed a 52 week alegra lesson plan, including explanations, diagrams, problems sets and the corresponding solutions.  Wrote articles for company website."
       }
     ],
     "skills":[
