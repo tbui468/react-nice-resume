@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Thomas Bui",
-    "description":"Long-time educator with experience living in both Japan and Vietnam.  Working towards a transition into software development and engineering.",
+    "description":"Long-time educator with experience living and working abroad.  Making a career transition towards software development and engineering.",
     "image":"profilepic.jpg",
     "background":"landscape.jpg",
-    "bio":"Tech enthusiast with a strong background working in education.  8+ years in education, with 5 years spent teaching in Japan.  Hobbyist programmer for many years using python and C++.  Self taught topics in the past year include computer graphics, web development, databases, machine learning and compilers.  Hobbies outside of work and programming include runnning, calisthenics, and learning about nutrition.",
+    "bio":"Tech enthusiast with a strong background working in education.  8+ years in education, with 5 years spent teaching in Japan.  Hobbyist programmer for many years using python and C++.  Self taught topics in the past year include computer graphics, web development, databases, machine learning. Currently fascinated by compilers and interpreters.  Hobbies outside of work and programming include runnning, calisthenics, and learning about nutrition.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "thomasthienbui@gmail.com",
     "phone": "555-555-5555",
@@ -45,7 +45,7 @@
       },
       {
         "company":"Bolsa Medical Clinic",
-        "title":"Medical Biller",
+        "title":"Medical Biller / Assistant Office Manager",
         "years":"2018-2019 USA",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
@@ -101,32 +101,38 @@
     "projectmessage": "Sample of some of my personal projects.",
     "projects": [
       {
+        "title":"Interpreter (in-progress)",
+        "category":"C++ implementation of lox language by Robert Nystrom",
+        "image":"simulation.jpg",
+        "url":"https://github.com/tbui468/cpplox"
+      },
+      {
         "title":"2d Physics Simulation",
-        "category":"My Travel Blog for my post-university travels",
+        "category":"2d ridig-body dynamic simulation",
         "image":"simulation.jpg",
         "url":"https://github.com/tbui468/rigid-body-simulation"
       },
       {
         "title":"3d Rasterizer",
-        "category":"(offline now) A fighting gear company I started",
+        "category":"rasterizer written in software using SDL2 for drawing",
         "image":"rasterizer.jpg",
         "url":"http://github.com/tbui468/3d-rasterizer"
       },
       {
         "title":"Game Enginer Renderer",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "category":"Basic 2d renderer using OpenGL",
         "image":"engine.jpg",
         "url":"http://github.com/tbui468/rose-game-engine"
       },
       {
         "title":"Browser Neural Network",
-        "category":"A React based resume website template",
+        "category":"Interactive neural network for educational purposes",
         "image":"network.jpg",
         "url":"https://tbui468.github.io./grid"
       },
       {
-        "title":"Apple Leaf Disease Detector",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"Apple Leaf Disease Classifier",
+        "category":"Neural network trained to classify apple folial diseases for a Kaggle competition.",
         "image":"detector.jpg",
         "url":"http://detector468.herokuapp.com"
       }
